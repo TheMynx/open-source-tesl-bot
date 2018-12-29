@@ -36,7 +36,6 @@ async def card(ctx, *, c: str):
         embed=discord.Embed(title="Exact match", color=0xdf0000)
         embed.set_author(name=ctx.message.author, icon_url=ctx.message.author.avatar_url)
         embed.set_image(url="attachment://image.png")
-        await ctx.send(file=f, embed=embed)
 
     except FileNotFoundError: # If exact match fails
         files = os.listdir("NewClientCards")
