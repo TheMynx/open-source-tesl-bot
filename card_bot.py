@@ -116,7 +116,7 @@ async def deck(ctx, *, code:str):
 @commands.cooldown(1,4,BucketType.channel)
 @bot.command()
 async def github(ctx):
-    embed=discord.Embed(title="Open source code (click on me)", url="https://github.com/TheMynx/opensource-tesl-bot", color=0xdf0000)
+    embed=discord.Embed(title="Open source code (click on me)", url="https://github.com/TheMynx/open-source-tesl-bot", color=0xdf0000)
     embed.set_author(name=ctx.message.author, icon_url=ctx.message.author.avatar_url)
     try:
         await ctx.message.delete()
