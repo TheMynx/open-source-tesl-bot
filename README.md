@@ -5,9 +5,9 @@ For more info on how to make a bot account and generate a token, visit: https://
 
 Available commands as of now:
 
-- !card : Syntax is !card <card name> Looks for the closest match between user entry and card database. All cards up to Morrowind, will be updated with IoM soon after release.
+- !card : Syntax is !card "card name" Looks for the closest match between user entry and card database. All cards up to Morrowind, will be updated with IoM soon after release.
 
-- !deck : Syntax is !deck <export code> Translates export code to readable list.
+- !deck : Syntax is !deck "export code" Translates export code to readable list.
 
 - !github : Posts link towards the open source code on GitHub.
 
