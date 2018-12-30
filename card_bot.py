@@ -45,7 +45,7 @@ async def card(ctx, *, c: str):
         embed=discord.Embed(title="Exact match", color=0xdf0000)
         embed.set_author(name=ctx.message.author, icon_url=ctx.message.author.avatar_url)
         embed.set_image(url="attachment://image.png")
-
+        await ctx.send(file=f, embed=embed)
     except FileNotFoundError: # If exact match fails
         files = os.listdir("NewClientCards")
         cardname = []
@@ -66,9 +66,12 @@ async def card(ctx, *, c: str):
         embed.set_author(name=ctx.message.author, icon_url=ctx.message.author.avatar_url)
         embed.set_image(url="attachment://image.png")
         f = discord.File(card2, filename="image.png")
+        try:
+            await ctx.send(file=f, embed=embed)
+        except Forbidden:
+            await ctx.send("The bot does not have 'Manage messages' or 'Embed links' permissions.")
     try:
         await ctx.message.delete()
-        await ctx.send(file=f, embed=embed)
     except Forbidden:
         await ctx.send("The bot does not have 'Manage messages' or 'Embed links' permissions.")
 
