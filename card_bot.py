@@ -1,15 +1,24 @@
 from discord.ext import commands
 from discord.ext.commands.cooldowns import BucketType
 from discord.errors import Forbidden
-from deckCommandInfo import cardCopiesIDsDictionary as IDs
-from deckCommandInfo import cardIDsDictionary as cardIDs
-from deckCommandInfo import manaCostDictionary as manaCost
 from sortedcontainers import SortedDict
 from re import findall
+import json
 import Levenshtein
 import discord
 import asyncio
 import os
+
+with open("deckCommandData/cardIDs.json") as f:
+    cardIDs = json.load(f)
+f.close()
+with open("deckCommandData/copiesIDs.json") as f:
+    IDs = json.load(f)
+f.close()
+with open("deckCommandData/manaCost.json") as f:
+    manaCost = json.load(f)
+f.close()
+
 
 bot = commands.Bot(command_prefix="!")
 
@@ -79,6 +88,7 @@ async def deck(ctx, *, code:str):
         # Finding cards in deck
         count = 0
         deckCardsSortedByCost = {}
+
         for i in splitCode:
             if i in IDs:
                 count+=1
