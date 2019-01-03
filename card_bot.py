@@ -31,7 +31,7 @@ async def on_ready():
 
 
 @commands.cooldown(1,4,BucketType.channel)
-# 1 message every 2 seconds per channel  (BucketType.user for per user, BucketType.channel for per channel, BucketType.server for per server)
+# 1 message every 4 seconds per channel  (BucketType.user for per user, BucketType.channel for per channel, BucketType.server for per server)
 @bot.command()
 async def card(ctx, *, c: str):
     card2 = str(c).replace(" ", "")
