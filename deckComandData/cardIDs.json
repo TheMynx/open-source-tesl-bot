@@ -98,7 +98,7 @@
     "bW": "Blackwood Distiller",
     "bX": "Blades Lookout",
     "bY": "Bleakcoast Troll",
-    "aZ": "Blighted Alit",
+    "iT": "Blighted Alit",
     "cb": "Blighted Werebat",
     "cc": "Blood Dragon",
     "cd": "Blood Magic Lord",
@@ -886,5 +886,6 @@
     "sl": "Young Dragonborn",
     "sm": "Young Mammoth",
     "cY": "Cheesemancer",
-    "jZ": "Madness Beckons"
+    "jZ": "Madness Beckons",
+    "aZ": "Ashlander Punisher"
 }
