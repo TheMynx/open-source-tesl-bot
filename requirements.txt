@@ -3,3 +3,4 @@ aiohttp>=3.3.0,<3.4.0
 websockets>=5.0,<6.0
 python-Levenshtein>=0.12.0
 sortedcontainers
+matplotlib
