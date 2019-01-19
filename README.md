@@ -19,6 +19,6 @@ Should there be any issues, please contact Mynx#6847 on Discord.
 
 # ATTENTION
 
-Visual CPP build tools are REQUIRED to install the python-Levenshtein module, without which you can NOT use the !card command. Make sure you have them before attempting to install the requirements, or it will error and the bot will crash.
+Visual CPP build tools are REQUIRED to install the python-Levenshtein module, without which you can NOT use the !card command. Make sure you have them before attempting to install the requirements, or it will error and the bot will not start up.
 
 Download link: https://visualstudio.microsoft.com/downloads/#build-tools-for-visual-studio-2017
