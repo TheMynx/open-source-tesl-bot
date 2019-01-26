@@ -88,7 +88,10 @@
         "Mudcrab Merchant",
         "Morag Tong Aspirant",
         "Jiub",
-        "Madness Beckons"
+        "Madness Beckons",
+        "Gardener's Harvest",
+        "Ring of Lordship",
+        "Cloak/Dagger"
     ],
     "2": [
         "Afflicted Alit",
@@ -229,7 +232,18 @@
         "Redoran Forerunner",
         "Dwemer Puzzle Box",
         "Stolen Pants",
-        "Falling Wizard"
+        "Falling Wizard",
+        "Crucible Blacksmith",
+        "Luzrah gro-Shar",
+        "Tiny Dragon",
+        "Shining Saint",
+        "Crazed Hunger",
+        "Lady Syl's Cruelty",
+        "Mad Dash",
+        "Skinned Hound",
+        "Squish the Wimpy",
+        "Wake the Dead",
+        "Felldew/Elytra Noble"
     ],
     "3": [
         "Assassin's Bow",
@@ -412,7 +426,20 @@
         "Hlaalu Sharpshooter",
         "Enamor's Keeper",
         "Knight of Gnisis",
-        "Yagrum Bagarn"
+        "Yagrum Bagarn",
+        "Bedeviling Scamp",
+        "Unstable Madman",
+        "Golden Initiate",
+        "Cyriel",
+        "Eager Torturer",
+        "Jyggalag's Incursion",
+        "Xavara Atronach",
+        "Doomfang Ally",
+        "Fork of Horripilation",
+        "Gates of Madness",
+        "Ghost Fanatic",
+        "Manic Jack/Manic Mutation",
+        "Manic Grummite/Demented Grummite"
     ],
     "4": [
         "Alik'r Survivalist",
@@ -566,7 +593,18 @@
         "Archcanon Saryoni",
         "Haunted Manor",
         "Inspiring Kinsman",
-        "Ashlander Punisher"
+        "Ashlander Punisher",
+        "Dawnfang",
+        "Haskill",
+        "Drive Mad",
+        "Nervous Giant",
+        "Icy Shambles",
+        "Blessing of the Grove",
+        "Fortress Guard",
+        "Preying Elytra",
+        "Baliwog Tidecrawlers/Smoked Baliwog Leg",
+        "Knight of Order",
+        "Spawn Mother/Baliwog"
     ],
     "5": [
         "Blood Dragon",
@@ -677,7 +715,13 @@
         "Sun-in-Shadow",
         "Cheesemancer",
         "Forsaken Champion",
-        "Morokei, the Deathless"
+        "Morokei, the Deathless",
+        "Trouble Seeker",
+        "Gnarl Rootbender",
+        "Heretic Conjurer",
+        "Greatwood Elder",
+        "The Gatekeeper",
+        "Tavyar the Knight/Rayvat the Mage"
     ],
     "6": [
         "Child of Hircine",
@@ -754,7 +798,9 @@
         "Naryu Virian",
         "Odirniran Necromancer",
         "Ascended Sleeper",
-        "Temple Patriarch"
+        "Temple Patriarch",
+        "Syl, Duchess of Dementia",
+        "Thadon, Duke of Mania"
     ],
     "7": [
         "Belligerent Giant",
@@ -802,7 +848,11 @@
         "Genius Pathmage",
         "Mighty Conjuring",
         "Spirit Knife",
-        "Traitor's Flames"
+        "Traitor's Flames",
+        "Grummite Magus",
+        "Transmogrify",
+        "Seducer Darkfire",
+        "Giant Chicken"
     ],
     "8": [
         "Indoril Archmage",
@@ -825,7 +875,10 @@
         "Unstoppable Rage",
         "Therana's Lawman",
         "Shrine Guardian",
-        "Power of the Almsivi"
+        "Power of the Almsivi",
+        "Seething Flesh Golem",
+        "Brellach Commander",
+        "Dark Seducer"
     ],
     "9": [
         "Nahkriin, Dragon Priest",
@@ -852,7 +905,8 @@
         "Tullius' Conscription",
         "Gravesinger",
         "Speaker Terenus",
-        "The Red Year"
+        "The Red Year",
+        "Hulking Scalon"
     ],
     "11": [
         "Divayth Fyr",
