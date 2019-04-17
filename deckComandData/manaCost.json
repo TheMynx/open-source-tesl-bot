@@ -19,7 +19,11 @@
         "Bushwhack",
         "Orvas' Bargain",
         "Dres Spy",
-        "Vvardvark Experiment"
+        "Vvardvark Experiment",
+        "Back-Alley Footpad",
+        "Cauterize",
+        "Forked Bolt",
+        "Sound the Alarm"
     ],
     "1": [
         "Fiery Imp",
@@ -90,7 +94,15 @@
         "Madness Beckons",
         "Gardener's Harvest",
         "Ring of Lordship",
-        "Cloak/Dagger"
+        "Cloak/Dagger",
+        "Baandari Opportunist",
+        "Bewildering Speed",
+        "Dominion Oathman",
+        "Great Moot Squire",
+        "Hush",
+        "Outflank",
+        "Ravaging Elixir",
+        "Soul Wraith"
     ],
     "2": [
         "Afflicted Alit",
@@ -243,7 +255,24 @@
         "Squish the Wimpy",
         "Wake the Dead",
         "Felldew/Elytra Noble",
-        "Pointy Wall of Spikes"
+        "Pointy Wall of Spikes",
+        "Alchemy",
+        "Altmer Flameslinger",
+        "Cruel Axe",
+        "Daggerfall Phantom",
+        "Ebonthread Cloak",
+        "Emeric's Warlord",
+        "Empire Recruiter",
+        "Guildsworn Apprentice",
+        "Guildsworn Revitalizer",
+        "Guildsworn Wayfarer",
+        "Imperial Lackey",
+        "Inspiring Soldier",
+        "Mystic of Ancient Rites",
+        "Ornamented Sword",
+        "Pact Oathman",
+        "Poisoned Dagger",
+        "Salvage"
     ],
     "3": [
         "Assassin's Bow",
@@ -439,7 +468,29 @@
         "Gates of Madness",
         "Ghost Fanatic",
         "Manic Jack/Manic Mutation",
-        "Manic Grummite/Demented Grummite"
+        "Manic Grummite/Demented Grummite",
+        "Black Marsh Prodigy",
+        "Channeled Storm",
+        "Covenant Mail",
+        "Covenant Plate",
+        "Craven Conscript",
+        "Dominion Battlereeve",
+        "Dragonguard Outcast",
+        "Dunmer Tyro",
+        "Enlistment Officer",
+        "Fighters Guild Berserker",
+        "Forerunner of the Pact",
+        "Forward Camp",
+        "Gray Viper Brigand",
+        "Luminous Shards",
+        "Renowned Instructor",
+        "Shadowscale Hunter",
+        "Steel-Eyed Visionary",
+        "Strategist's Map",
+        "Supply Runner",
+        "The Ruby Throne",
+        "Transitus Shrine",
+        "Vanus's Scribe"
     ],
     "4": [
         "Alik'r Survivalist",
@@ -606,7 +657,24 @@
         "Knight of Order",
         "Spawn Mother/Baliwog",
         "Murkwater Scourge",
-        "Training Grounds"
+        "Training Grounds",
+        "Bruma Oppressor",
+        "Covenant Oathman",
+        "Empire Oathman",
+        "Guildsworn Incendiary",
+        "Legion Zero Templar",
+        "Master of Incunabula",
+        "Mournhold Taskmaster",
+        "Pact Shieldbearer",
+        "Sparksmith",
+        "Spiny Haj Muta",
+        "Strategic Deployment",
+        "Telekinesis",
+        "Unrelenting Siege",
+        "Valenwood Sentry",
+        "Varen Aquilarios",
+        "Windhelm Conscript",
+        "Wish"
     ],
     "5": [
         "Blood Dragon",
@@ -724,7 +792,22 @@
         "Greatwood Elder",
         "The Gatekeeper",
         "Tavyar the Knight/Rayvat the Mage",
-        "Renegade Magister"
+        "Renegade Magister",
+        "Assassin Beetle",
+        "Battle of Chalman Keep",
+        "Daedric Titan",
+        "Dark Anchor",
+        "Fighters Guild Elite",
+        "Guilsworn Cavalier",
+        "Guildsworn Oathman",
+        "Jorunn the Skald-King",
+        "Jorunn's Vanguard",
+        "Lion Guard Armaments",
+        "Nereid Sister",
+        "Orsinium Forge",
+        "Soul Shred",
+        "Spoils of War",
+        "Staff of Ice"
     ],
     "6": [
         "Child of Hircine",
@@ -803,7 +886,16 @@
         "Ascended Sleeper",
         "Temple Patriarch",
         "Syl, Duchess of Dementia",
-        "Thadon, Duke of Mania"
+        "Thadon, Duke of Mania",
+        "Abnur Tharn",
+        "Ayrenn's Chosen",
+        "Bishop of the Hour",
+        "Black Marsh Centurion",
+        "Clivia Tharn",
+        "High Rock Stalwart",
+        "Invoker of the Hist",
+        "Lyris Titanborn",
+        "Mages Guild Conjurer"
     ],
     "7": [
         "Belligerent Giant",
@@ -855,7 +947,13 @@
         "Grummite Magus",
         "Transmogrify",
         "Seducer Darkfire",
-        "Giant Chicken"
+        "Giant Chicken",
+        "Debilitate",
+        "Empire Dreadmage",
+        "Guildsworn Bloodluster",
+        "Guildsworn Honeytongue",
+        "Sal Sahan",
+        "Xivkyn Banelord"
     ],
     "8": [
         "Indoril Archmage",
@@ -881,7 +979,9 @@
         "Power of the Almsivi",
         "Seething Flesh Golem",
         "Brellach Commander",
-        "Dark Seducer"
+        "Dark Seducer",
+        "Ayrenn, Dominion Queen",
+        "Covenant Masterpiece"
     ],
     "9": [
         "Nahkriin, Dragon Priest",
@@ -896,7 +996,8 @@
         "Chodala's Treachery",
         "Cliff Racer Onslaught",
         "Mushroom Tower",
-        "Divayth's Experiments"
+        "Divayth's Experiments",
+        "Emeric, Covenant King"
     ],
     "10": [
         "Supreme Atromancer",
@@ -909,18 +1010,23 @@
         "Gravesinger",
         "Speaker Terenus",
         "The Red Year",
-        "Hulking Scalon"
+        "Hulking Scalon",
+        "Mannimarco"
     ],
     "11": [
         "Divayth Fyr",
         "Miraak, Dragonborn",
-        "Dwarven Colossus"
+        "Dwarven Colossus",
+        "Vanus Galerion"
     ],
     "12": [
         "Iron Atronach",
         "Odahviing",
         "Paarthurnax",
         "Dagoth Ur"
+    ],
+    "13": [
+        "Soulburst"
     ],
     "20": [
         "Alduin"
